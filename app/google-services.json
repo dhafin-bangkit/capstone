@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "614760885783",
+    "project_id": "benerin-99e8f",
+    "storage_bucket": "benerin-99e8f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:614760885783:android:920d6a2d79b4e2ba48b652",
+        "android_client_info": {
+          "package_name": "com.example.benerin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "614760885783-a172g9avgmft4vvqvmfi7iclejnkd1j4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDC5hfkKVzniOXi0J_eDmK9S-pvsrtl7No"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "614760885783-88jstp5j7a5qnpffq8nn5tl2r59i7pde.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

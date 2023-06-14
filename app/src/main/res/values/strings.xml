@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">BenerIn</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="app_desc">Repair your vehicle without worrying wherever you are, whenever you are</string>
+
+    <string name="email_warning">Wrong email format</string>
+    <string name="password_warning">Password must have at least 8 characters</string>
+    <string name="name_warning">Name can\'t be empty</string>
+    <string name="register_success">Register success</string>
+    <string name="register_fail">Register failed</string>
+    <string name="login_success">Login success</string>
+    <string name="login_fail">Login failed</string>
+    <string name="service">Service</string>
+    <string name="favorite">Favorite</string>
+</resources>
